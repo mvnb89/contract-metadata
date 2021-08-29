@@ -1043,6 +1043,13 @@
     "symbol": "CHAI",
     "decimals": 18
   },
+  "0x106552c11272420aad5d7e94f8acab9095a6c952": {
+    "name": "Keanu Inu",
+    "logo": "keanu.png",
+    "erc20": true,
+    "symbol": "KEANU",
+    "decimals": 9
+  },
   "0x04Fa0d235C4abf4BcF4787aF4CF447DE572eF828": {
     "name": "UMA",
     "logo": "UMA.png",
